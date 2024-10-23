@@ -4,13 +4,14 @@
 Welcome to the **CryptoV4ult Security Assessment** repository. This repository contains the project report and related documents from the comprehensive security evaluation conducted on the CryptoV4ult platform. The purpose of this assessment was to identify potential security vulnerabilities, evaluate the platform’s compliance with security standards, and recommend actionable steps to mitigate any identified risks.
 
 ## Table of Contents
-- Project Overview
-- Project Scope
-- Assessment Methodology
-- Findings and Recommendations
-- Documents
-- Contributing
-- License
+
+- [Project Overview](#overview)
+- [Project Scope](#project-scope)
+- [Assessment Methodology](#assessment-methodology)
+- [Findings and Recommendations](#findings-and-recommendations)
+- [Documents](#documents)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Project Overview
 The **CryptoV4ult Security Assessment** focused on evaluating the security posture of CryptoV4ult's infrastructure, ensuring that it meets the highest standards required for a cryptocurrency platform. This assessment examined critical areas, including the login system, container services, APIs, and overall application security.
